@@ -1,4 +1,4 @@
-package in.rs.mdprogramming.pretest01;
+package in.rs.mdprogramming.pretest01.exercise11;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
